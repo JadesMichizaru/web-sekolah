@@ -1,0 +1,17 @@
+<ul>
+											<li>
+												<ul class="list-partners">
+													<li>
+														<a href="404.html" title="Dinas Pendidikan">
+															<img src="aset/img/logo-pendidikan.png" alt="image" width="118" height="115">
+														</a>
+													</li>
+													<li><a href="404.html" title="Website Kalimantan Timur"><img src="aset/img/logo-kaltim.png" alt="image" width="118" height="103"></a></li>
+													<li><a href="404.html" title="Pramuka Kaltim"><img src="aset/img/logo-pramuka.png" alt="image" width="97" height="98"></a></li>
+													<li><a href="404.html" title="Kota Palembang"><img src="aset/img/logo-palembang.png" alt="image" width="89" height="98"></a></li>
+													<li><a href="404.html" title="SMKN 1 Berau"><img src="https://idn-static-assets.s3-ap-southeast-1.amazonaws.com/school/10226.png" alt="image" width="90" height="111"></a></li>
+													<li><a href="https://birohmatika.com/alif/" title="Enctaunty"><img src="https://cdn.discordapp.com/attachments/1053438217694761042/1093128402367676426/39408a8c-082c-4539-a003-926ad58c4927.png" alt="image" width="170" height="150"></a></li>
+													<li class="last">&nbsp;</li>
+												</ul>
+											</li>
+										</ul>
